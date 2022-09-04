@@ -1,5 +1,5 @@
-appId: 'supotlauncher'
-productName: 'Supot Launcher'
+appId: 'spritelauncher'
+productName: 'Sprite Launcher'
 artifactName: '${productName}-setup-${version}.${ext}'
 
 copyright: 'Copyright © 2022-2022 7stage'
