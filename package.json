@@ -1,8 +1,8 @@
 {
-  "name": "supotlauncher",
-  "version": "0.3.1-beta",
-  "productName": "Supot Launcher",
-  "description": "Supot Online Minecraft Launcher",
+  "name": "spritelauncher",
+  "version": "0.4.0-beta",
+  "productName": "Sprite Launcher",
+  "description": "Sprite Online Minecraft Launcher",
   "author": "7stage (https://github.com/7stage)",
   "license": "MIT",
   "homepage": "https://github.com/7stage/SupotLauncher",
