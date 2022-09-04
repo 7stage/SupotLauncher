@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "rss": "<LINK TO RSS FEED>",
+  "rss": "",
   "discord": {
     "clientId": "",
     "smallImageText": "SupotOnline",
@@ -20,8 +20,8 @@
         "largeImageText": "",
         "largeImageKey": ""
       },
-      "mainServer": false,
-      "autoconnect": false,
+      "mainServer": true,
+      "autoconnect": true,
       "modules": [
         {
           "id": "net.minecraftforge:forge:1.12.2-14.23.5.2860:universal",
@@ -256,6 +256,7 @@
           ]
         }
       ]
+      
     }
   ]
 }
