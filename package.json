@@ -1,6 +1,6 @@
 {
   "name": "supotlauncher",
-  "version": "0.0.1",
+  "version": "0.3.1-beta",
   "productName": "Supot Launcher",
   "description": "Supot Online Minecraft Launcher",
   "author": "7stage (https://github.com/7stage)",
@@ -17,7 +17,8 @@
     "dist:win": "npm run dist -- -w",
     "dist:mac": "npm run dist -- -m",
     "dist:linux": "npm run dist -- -l",
-    "lint": "eslint --config .eslintrc.json ."
+    "lint": "eslint --config .eslintrc.json .",
+    "pack": "electron-builder -mwl"
   },
   "engines": {
     "node": "16.x.x"
@@ -26,6 +27,7 @@
     "@electron/remote": "^2.0.8",
     "adm-zip": "^0.5.9",
     "async": "^3.2.3",
+    "build": "^0.1.4",
     "discord-rpc-patch": "^4.0.1",
     "ejs": "^3.1.8",
     "ejs-electron": "^2.1.1",
